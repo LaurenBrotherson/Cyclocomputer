@@ -1,0 +1,21 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PowerMeterRX   KEYWORD1
+Packet         KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+writeData     KEYWORD2
+readData      KEYWORD2
+getTorque     KEYWORD2
+getFreq       KEYWORD2
+getPower      KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
